@@ -22,8 +22,6 @@ Sitio de la tienda Max Bazar: una sola página (`index.html`) con catálogo, car
 
 ---
 
----
-
 ## 4. Riesgo, revisión y subagentes
 
 > Viene de `malbeldas/prompts` `base/`. Las guardas de `.claude/` bloquean lo prohibido; esta sección dice cuándo usar cada cosa.
